@@ -25,7 +25,7 @@ const StringCalculator = () => {
         rows="5"
         value={input}
         onChange={(e) => setInput(e.target.value)}
-        placeholder="Enter numbers separated by commas or new lines"
+        placeholder="Enter numbers (use , or newline as delimiters)"
       />
       <button onClick={handleCalculate}>Calculate</button>
       {result !== null && <p>Result: {result}</p>}
