@@ -9,8 +9,7 @@ A **String Calculator** built with **React** using the **Test-Driven Development
 ✅ Handle multiple numbers dynamically  
 ✅ Ignore invalid inputs (e.g., `2,a,4` → result = `6`)  
 ✅ Real-time calculation  
-✅ Fully tested using **Jest** and **React Testing Library**  
-✅ Styled with **Tailwind CSS**
+✅ Fully tested using **Jest** and **React Testing Library** 
 
 ---
 
@@ -24,7 +23,7 @@ A **String Calculator** built with **React** using the **Test-Driven Development
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/string-calculator.git
+git clone https://github.com/Developer01ash/string-calculator.git
 cd string-calculator
 ```
 
